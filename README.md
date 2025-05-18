@@ -78,7 +78,7 @@ This repository contains SQL solutions to the Cowrywise Data Analyst technical a
 ## ✅ Notes
 
 - All SQL queries are written and tested in MySQL syntax.
-- Code is modular, readable, and uses CTEs for clarity.
+- Code is modular, readable, and uses Common Table Expression (CTEs) for clarity.
 - Comments are included in each `SQL` file to explain non-obvious logic.
 - No additional files or data exports are included, per assessment rules.
 
